@@ -1,4 +1,4 @@
-# Multi-Language Reverse Shell Examples (C, Python, Ruby, JSP)
+# Multi-Language Reverse Shell Examples (C, Powershell, Python, PHP, Ruby, JSP)
 
 This project demonstrates reverse shell implementations across multiple programming languages:
 
